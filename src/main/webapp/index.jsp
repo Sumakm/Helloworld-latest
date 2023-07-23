@@ -6,7 +6,7 @@
 <title>Welcome to ICICISA BANK</title>
 <style>
   body {
-    background-color: purple;
+    background-color: pink;
   }
 </style>
 </head>
