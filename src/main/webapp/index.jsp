@@ -6,13 +6,13 @@
 <title>Welcome to HDFCSA BANK</title>
 <style>
   body {
-    background-color: pink;
+    background-color: green;
   }
 </style>
 </head>
 <body>
 <h1>Welcome to HDFCSA BANK</h1>
-<p>This is a sample Welcome to ICICISA BANK application for 2023 July Morrning Batch.</p>
+<p>This is a sample Welcome to HDFCSA BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
 
