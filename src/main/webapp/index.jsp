@@ -6,7 +6,7 @@
 <title>Welcome to HDFCSA BANK</title>
 <style>
   body {
-    background-color: blue;
+    background-color: pink;
   }
 </style>
 </head>
