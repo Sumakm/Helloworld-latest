@@ -1,5 +1,5 @@
 pipeline {
-    agent { label "Slave1" }
+    agent { label "SlaveA" }
     
     triggers {
         pollSCM('* * * * *')
