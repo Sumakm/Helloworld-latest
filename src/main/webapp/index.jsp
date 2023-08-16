@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to ICICA BANK</title>
+<title>Welcome to ABC BANK</title>
 <style>
   body {
     background-color: YELLOW;
@@ -11,8 +11,8 @@
 </style>
 </head>
 <body>
-<h1>Welcome to ICICA BANK</h1>
-<p>This is a sample Welcome to ICICA BANK application for 2023 July Morrning Batch.</p>
+<h1>Welcome to ABC BANK</h1>
+<p>This is a sample Welcome to ABC BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
 
