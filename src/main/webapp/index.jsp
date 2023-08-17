@@ -6,7 +6,7 @@
 <title>Welcome to DABC-SA BANK</title>
 <style>
   body {
-    background-color: pink;
+    background-color: blue;
   }
 </style>
 </head>
